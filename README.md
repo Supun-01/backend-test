@@ -7,6 +7,7 @@
 ### Install Dependencies:
 
 ```bash
+ git clone https://github.com/Supun-01/backend-test.git
  cd backend-api
  npm init
  npm install express --no-save
